@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahib</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **React,C#**
 
-- 🌱 I’m currently learning **C# BackEnd**
+- 🌱 I’m currently learning **TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

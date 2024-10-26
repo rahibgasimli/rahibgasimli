@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahib</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<h3 align="center">A passionate fullstact developer from Azerbaijan</h3>
 
 - 🔭 I’m currently working on **React,C#**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahib</h1>
 <h3 align="center">A passionate fullstact developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **React,C#**
+- 🔭 I’m currently working on **React, NextJS**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

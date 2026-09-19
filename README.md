@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Rahib Qasımlı</h1>
+<h1>👋 Hi, I'm Rahib Gasimli</h1>
 
 <h3>Dream Big, Code Bigger — Building scalable APIs with C#, .NET Core, and Cloud Infrastructure.</h3>
 

@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Rahib Qasımlı</h1>
+<h1>👋 Hi, I'm Rahib Gasimli</h1>
 
 <h3>Building scalable APIs with C#, .NET Core</h3>
 
@@ -6,7 +6,7 @@
 
 <h2>✨ About Me</h2>
 
-Hello! I'm Rahib Qasımlı, a Backend Developer passionate about building robust, high-performance web applications and secure systems.
+Hello! I'm Rahib Gasimli, a Backend Developer passionate about building robust, high-performance web applications and secure systems.
 I enjoy architecting modern software solutions — whether through Onion Architecture, CQRS, or automated CI/CD pipelines.
 My primary focus is on **clean code, microservices, and database optimization**, while crafting modern full-stack web experiences.
 

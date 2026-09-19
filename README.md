@@ -18,4 +18,4 @@ A full-stack travel project featuring a .NET backend integrated with OracleDB, R
 
 📫 Contact
 
-You can reach me on [LinkedIn](https://linkedin.com) or check out my code on [GitHub](https://github.com/rahibgasimli).
+You can reach me on [LinkedIn](https://www.linkedin.com/in/rahibgasimli/) or check out my code on [GitHub](https://github.com/rahibgasimli).
